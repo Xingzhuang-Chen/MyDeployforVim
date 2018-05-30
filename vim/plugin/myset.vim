@@ -1,0 +1,11 @@
+set number
+set nrformats=octal,hex 
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+set expandtab
+set wildmenu
+set wildmode=longest,list
+colorscheme slate
+set guioptions=
+set hidden
